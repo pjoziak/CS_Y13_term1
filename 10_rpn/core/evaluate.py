@@ -1,7 +1,7 @@
 from typing import Union
 
-from rpn.core.utils import is_operator
-from rpn.core.validate import validate_rpn
+from .utils import is_operator
+from .validate import validate_rpn
 
 
 def perform_operation(operand1: str, operand2: str, operator: str):
