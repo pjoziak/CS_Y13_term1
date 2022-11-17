@@ -3,6 +3,7 @@ from ddt import ddt, data, unpack
 
 from ..core.utils import split_infix
 
+
 @ddt
 class SplitInfixTestCase(unittest.TestCase):
     @data(
