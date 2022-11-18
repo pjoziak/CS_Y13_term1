@@ -1,4 +1,4 @@
-from topic_10_rpn.core.utils import is_operator
+from topic_07_rpn.core.utils import is_operator
 
 
 def validate_rpn(*symbols: str):

@@ -1,7 +1,7 @@
 import unittest
 from ddt import ddt, data, unpack
 
-from topic_10_rpn.core.utils import split_infix
+from topic_07_rpn.core.utils import split_infix
 
 
 @ddt

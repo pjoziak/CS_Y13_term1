@@ -1,6 +1,6 @@
 from typing import List
 
-from topic_10_rpn.core.utils import (
+from topic_07_rpn.core.utils import (
     is_operand, is_open_parenthesis, is_closed_parenthesis, is_preceeding_operator, is_parenthesis, split_infix
 )
 
